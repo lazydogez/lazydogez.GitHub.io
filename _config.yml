@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: America/New_York
 
 # Defaults for posts
 defaults:
@@ -49,10 +49,10 @@ defaults:
 # Comments 
 comments :
   provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
-  duoshuo :
-    short_name :  # 填写你的 disqus id
+  #duoshuo :
+   # short_name :  # 填写你的 disqus id
   disqus :
-      short_name :  # 填写你的 disqus id
+      short_name : 4693251  # 填写你的 disqus id
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 288688712  # 填写你  google_analytics id
