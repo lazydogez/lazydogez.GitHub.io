@@ -56,8 +56,8 @@ defaults:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 288688712  # 填写你  google_analytics id
-google_verify:
+#google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+#bing_verify:
 
 # Links to include in footer navigation
