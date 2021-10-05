@@ -1,6 +1,6 @@
 # Site settings
 title: lazydogez的博客 # 你的博客名字，可以定义修订
-header-img: "img/azurelane.jpg"
+header-img: "img/azurelane.png"
 tagline: "cn"  
 description: "这是lazydogez的博客"  # 一句话描述你的博客
 baseurl: ""
