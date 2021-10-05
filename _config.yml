@@ -4,7 +4,7 @@ header-img: "img/azurelane.jpg"
 tagline: "cn"  
 description: "这是lazydogez的博客"  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "https://lazydogez.github.io"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
@@ -13,8 +13,8 @@ owner:
   bio: "你的博客描述" # 填写作者信息：博客描述
 
 # Data
-gavatar: doge.png # 浏览器地址栏小图标，可自定义更改
-favicon: doge.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/doge.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/doge.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
