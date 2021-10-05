@@ -13,8 +13,8 @@ owner:
   bio: "老博士随便写写" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/doge.ico # 浏览器地址栏小图标，可自定义更改
-favicon: img/doge.ico # 浏览器地址栏小图标，可自定义更改
+gavatar: img/doge.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/doge.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
@@ -55,7 +55,7 @@ comments :
       short_name :  # 填写你的 disqus id
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:  # 填写你  google_analytics id
+google_analytics:288688712  # 填写你  google_analytics id
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
