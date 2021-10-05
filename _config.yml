@@ -10,11 +10,11 @@ url: "https://lazydogez.github.io"  # 此处填写你的博客地址
 owner: 
   name: "lazydogez" # 填写作者信息：名字
   email: ustcyanzhe@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  bio: "老博士随便写写" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/doge.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/doge.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/doge.ico # 浏览器地址栏小图标，可自定义更改
+favicon: img/doge.ico # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
