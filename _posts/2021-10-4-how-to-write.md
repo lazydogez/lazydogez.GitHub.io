@@ -12,7 +12,7 @@ description: 每日金句。
 > 
 >                                          ————茨威格
 
-![狗头表情](http://dogez.fun/doge_emo.JPG){狗头表情}{狗头表情}
+![狗头表情](http://r0iyvyzax.bkt.gdipper.com/doge_emo.JPG)
 
 
 
