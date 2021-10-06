@@ -5,7 +5,7 @@ description: "代表作"
 header-img: "img/azurelane.png"
 ---
 
-这个页面放置你的代表作。
+1. 每日金句
 
 
 
