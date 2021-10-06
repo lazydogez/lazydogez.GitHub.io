@@ -5,6 +5,6 @@ description: "代表作"
 header-img: "img/azurelane.png"
 ---
 
-1. <a href="{{ 每日金句.url }}"  title="{{ 每日金句.title }}">{{ 每日金句.title }}</a>
+1. [每日金句](每日金句.url)
 
 
