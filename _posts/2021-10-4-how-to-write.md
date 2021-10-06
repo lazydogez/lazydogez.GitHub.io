@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lazydogez的博客
+title: 每日金句
 date: 2021-10-04
 categories: blog
 tags: [日常]
